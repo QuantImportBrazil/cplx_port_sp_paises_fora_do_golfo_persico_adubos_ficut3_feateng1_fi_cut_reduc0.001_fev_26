@@ -1,9 +1,13 @@
 names,importances,experiment_id,CO_MES,var_target
-"('10~mes', '31~prdt', '101~geo2', '998~geo3', 'kt')",0.026557530389518403,57d6416a-af2f-47d2-9d92-8f4cad78e546,03~mes,kt
-"('02~mes', '27~prdt', '031~geo2', '999~geo3', 'kt')",0.02446140830417771,57d6416a-af2f-47d2-9d92-8f4cad78e546,03~mes,kt
-"('10~mes', '47~prdt', '101~geo2', '999~geo3', 'kt')",0.02248351815259711,57d6416a-af2f-47d2-9d92-8f4cad78e546,03~mes,kt
-"('11~mes', '09~prdt', '072~geo2', '999~geo3', 'kt')",0.02243534543016238,57d6416a-af2f-47d2-9d92-8f4cad78e546,03~mes,kt
-"('05~mes', '47~prdt', '091~geo2', '999~geo3', 'kt')",0.021646300399830752,57d6416a-af2f-47d2-9d92-8f4cad78e546,03~mes,kt
-ANO,0.0,57d6416a-af2f-47d2-9d92-8f4cad78e546,03~mes,oc
-ANO,0.0,be970829-426b-4d81-805d-737ab36e770a,09~mes,kt
-ANO,0.0,be970829-426b-4d81-805d-737ab36e770a,09~mes,oc
+"('09~mes', 'corretor_spot')",0.07029994870315948,e17ca1bf-4bbf-4d1e-b5ff-8318a13119f8,03~mes,kt
+"('02~mes', '27~prdt', '014~geo2', '999~geo3', 'kt')",0.04157373836741479,e17ca1bf-4bbf-4d1e-b5ff-8318a13119f8,03~mes,kt
+"('10~mes', '31~prdt', '101~geo2', '998~geo3', 'kt')",0.04113080570138359,e17ca1bf-4bbf-4d1e-b5ff-8318a13119f8,03~mes,kt
+"('11~mes', '31~prdt', '021~geo2', '999~geo3', 'kt')",0.04044791778255935,e17ca1bf-4bbf-4d1e-b5ff-8318a13119f8,03~mes,kt
+"('10~mes', '38~prdt', '014~geo2', '999~geo3', 'kt')",0.03160988019592845,e17ca1bf-4bbf-4d1e-b5ff-8318a13119f8,03~mes,kt
+ANO,0.0,e17ca1bf-4bbf-4d1e-b5ff-8318a13119f8,03~mes,oc
+"('12~mes', '09~prdt', '071~geo2', '999~geo3', 'kt')",0.09769027454590617,657ab382-4f0b-4f3f-87e8-64df5aacd8db,09~mes,kt
+"('12~mes', '-1:-49', 'mm')",0.06561598732206791,657ab382-4f0b-4f3f-87e8-64df5aacd8db,09~mes,kt
+"('04~mes', '12~prdt', '021~geo2', '999~geo3', 'kt')",0.057808395165613036,657ab382-4f0b-4f3f-87e8-64df5aacd8db,09~mes,kt
+"('03~mes', '-16:-42', 'mm')",0.049774518948631316,657ab382-4f0b-4f3f-87e8-64df5aacd8db,09~mes,kt
+"('09~mes', '27~prdt', '092~geo2', '999~geo3', 'kt')",0.04878291986806003,657ab382-4f0b-4f3f-87e8-64df5aacd8db,09~mes,kt
+ANO,0.0,657ab382-4f0b-4f3f-87e8-64df5aacd8db,09~mes,oc
