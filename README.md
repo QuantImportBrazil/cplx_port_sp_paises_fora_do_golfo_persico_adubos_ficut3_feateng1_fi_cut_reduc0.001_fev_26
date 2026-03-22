@@ -23,18 +23,7 @@
 
 ## Análise mês a mês
 
-![](images/Jan.png)
-![](images/Fev.png)
 ![](images/Mar.png)
-![](images/Abr.png)
-![](images/Mai.png)
-![](images/Jun.png)
-![](images/Jul.png)
-![](images/Ago.png)
-![](images/Set.png)
-![](images/Out.png)
-![](images/Nov.png)
-![](images/Dez.png)
 
 
 ---  
