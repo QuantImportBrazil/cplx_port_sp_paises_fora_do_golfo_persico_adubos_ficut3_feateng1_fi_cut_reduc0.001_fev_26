@@ -36,14 +36,6 @@
 ![](images/Nov.png)
 ![](images/Dez.png)
 
----  
-
-## Principais fatores (ML)  
-
-> 📊 **Seção fundamental para entender o modelo.**  
-> A tabela abaixo apresenta a importância relativa das variáveis no algoritmo de Machine Learning.
-
-![](tables/fatores_ml.png)  
 
 ---  
 
