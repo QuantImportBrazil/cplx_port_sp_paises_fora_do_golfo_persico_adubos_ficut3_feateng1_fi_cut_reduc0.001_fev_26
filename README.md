@@ -1,20 +1,20 @@
 
-# <img src="logo.png" alt="Logo QuantImport" width="70"> QuantImport  
-![Risk](https://img.shields.io/badge/Risk-Geopolitical%20Exposure-bd2d2d)
+# <img src="logo.png" alt="Logo QuantImport" width="70"> QuantImport
 
 **[Home](https://quantimportbrazil.github.io/Sobre/)** | **[Voltar para Demos](https://quantimportbrazil.github.io/Demo/)**
+
 
 ---
 
 ## Índice da Página
 
 1. [Análise ao longo do ano](#análise-ao-longo-do-ano)  
-2. [Análise mês a mês](#análise-mês-a-mês)
+2. [Análise mês a mês](#análise-mês-a-mês)  
 
 ---
 
 ## Análise ao longo do ano  
-![](images/overview.png)
+![](images/overview.png)  
 
 * O tamanho da marca "x verde" é proporcional à probabilidade da instância ocorrer.  
 * Os testes foram realizados sobre o histórico disponível, podendo alcançar até 15 anos de dados, conforme a série considerada.  
@@ -23,20 +23,28 @@
 
 ## Análise mês a mês
 
-*Imagem de Jan ainda não disponível*
-*Imagem de Fev ainda não disponível*
-*Imagem de Mar ainda não disponível*
-*Imagem de Abr ainda não disponível*
-*Imagem de Mai ainda não disponível*
-*Imagem de Jun ainda não disponível*
-*Imagem de Jul ainda não disponível*
-*Imagem de Ago ainda não disponível*
-*Imagem de Set ainda não disponível*
-*Imagem de Out ainda não disponível*
-*Imagem de Nov ainda não disponível*
-*Imagem de Dez ainda não disponível*
+![](images/Jan.png)
+![](images/Fev.png)
+![](images/Mar.png)
+![](images/Abr.png)
+![](images/Mai.png)
+![](images/Jun.png)
+![](images/Jul.png)
+![](images/Ago.png)
+![](images/Set.png)
+![](images/Out.png)
+![](images/Nov.png)
+![](images/Dez.png)
 
+---  
 
----
+## Principais fatores (ML)  
+
+> 📊 **Seção fundamental para entender o modelo.**  
+> A tabela abaixo apresenta a importância relativa das variáveis no algoritmo de Machine Learning.
+
+![](tables/fatores_ml.png)  
+
+---  
 
 *Modelos utilizados: Machine Learning e Regressão Linear.*
