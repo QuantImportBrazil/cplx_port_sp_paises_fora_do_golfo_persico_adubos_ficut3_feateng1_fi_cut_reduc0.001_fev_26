@@ -9,9 +9,7 @@
 ## Índice da Página
 
 1. [Análise ao longo do ano](#análise-ao-longo-do-ano)  
-2. [Análise mês a mês](#análise-mês-a-mês)  
-3. [⚠ Principais fatores explicativos (ML)](#principais-fatores-ml)  
-
+2. [Análise mês a mês](#análise-mês-a-mês)
 ---
 
 ## Análise ao longo do ano  
