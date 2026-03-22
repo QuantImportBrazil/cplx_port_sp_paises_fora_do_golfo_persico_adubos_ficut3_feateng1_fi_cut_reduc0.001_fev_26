@@ -19,17 +19,11 @@
 
 > ⚠ **Importante:**  
 > Ao final desta página encontra-se tabela com a **variável que mais influenciou cada previsão mensal segundo o modelo de Machine Learning**.  
-> Recomendamos fortemente a leitura dessa seção para ampliar a interpretação dos resultados.  
 
 ---
 
 ## Análise ao longo do ano  
 ![](images/overview.png)  
-
-* O tamanho da marca "x verde" é proporcional à probabilidade da instância ocorrer.  
-* Os testes foram realizados sobre o histórico disponível, podendo alcançar até 15 anos de dados, conforme a série considerada.  
-
----
 
 ## Análise mês a mês
 
