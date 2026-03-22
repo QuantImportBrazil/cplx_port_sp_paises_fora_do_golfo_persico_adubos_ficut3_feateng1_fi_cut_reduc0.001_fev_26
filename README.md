@@ -1,11 +1,8 @@
 
-# <img src="logo.png" alt="Logo QuantImport" width="70"> QuantImport
+# <img src="logo.png" alt="Logo QuantImport" width="70"> QuantImport  
+![Risk](https://img.shields.io/badge/Risk-Geopolitical%20Exposure-bd2d2d)
 
 **[Home](https://quantimportbrazil.github.io/Sobre/)** | **[Voltar para Demos](https://quantimportbrazil.github.io/Demo/)**
-
----
-
-> **Emissão:** 2-2026  
 
 ---
 
@@ -17,13 +14,13 @@
 
 ---
 
-> ⚠ **Importante:**  
-> Ao final desta página encontra-se tabela com a **variável que mais influenciou cada previsão mensal segundo o modelo de Machine Learning**.  
-
----
-
 ## Análise ao longo do ano  
 ![](images/overview.png)  
+
+* O tamanho da marca "x verde" é proporcional à probabilidade da instância ocorrer.  
+* Os testes foram realizados sobre o histórico disponível, podendo alcançar até 15 anos de dados, conforme a série considerada.  
+
+---
 
 ## Análise mês a mês
 
