@@ -1,9 +1,9 @@
 names,importances,experiment_id,CO_MES,var_target
-"('11~mes', '31~prdt', '044~geo2', '999~geo3', 'kt')",0.031010565077237557,4f9d8c6f-f8d5-4e63-b7d1-cde954fb8d52,03~mes,kt
-"('03~mes', '27~prdt', '021~geo2', '999~geo3', 'kt')",0.029530851765699025,4f9d8c6f-f8d5-4e63-b7d1-cde954fb8d52,03~mes,kt
-"('03~mes', '87~prdt', '101~geo2', '999~geo3', 'kt')",0.022918562728137314,4f9d8c6f-f8d5-4e63-b7d1-cde954fb8d52,03~mes,kt
-"('09~mes', 'corretor_spot')",0.02057430112713994,4f9d8c6f-f8d5-4e63-b7d1-cde954fb8d52,03~mes,kt
-"('03~mes', '47~prdt', '091~geo2', '999~geo3', 'kt')",0.019739330036738365,4f9d8c6f-f8d5-4e63-b7d1-cde954fb8d52,03~mes,kt
-ANO,0.0,4f9d8c6f-f8d5-4e63-b7d1-cde954fb8d52,03~mes,oc
-ANO,0.0,bc32c3ff-f957-4441-ac03-25aa876753e5,09~mes,kt
-ANO,0.0,bc32c3ff-f957-4441-ac03-25aa876753e5,09~mes,oc
+"('10~mes', '31~prdt', '101~geo2', '998~geo3', 'kt')",0.04903478412052244,03ceb2a1-8c8c-46dd-8506-f862c1c916ff,03~mes,kt
+"('06~mes', '27~prdt', '101~geo2', '998~geo3', 'preço_rel')",0.02977304773221677,03ceb2a1-8c8c-46dd-8506-f862c1c916ff,03~mes,kt
+"('03~mes', '17~prdt', '041~geo2', '999~geo3', 'preço_rel')",0.023669911620545155,03ceb2a1-8c8c-46dd-8506-f862c1c916ff,03~mes,kt
+"('11~mes', '-13:-59', 'mm')",0.021694143148202095,03ceb2a1-8c8c-46dd-8506-f862c1c916ff,03~mes,kt
+"('07~mes', '10~prdt', '081~geo2', '998~geo3', 'preço_rel')",0.020160183141457944,03ceb2a1-8c8c-46dd-8506-f862c1c916ff,03~mes,kt
+ANO,0.0,03ceb2a1-8c8c-46dd-8506-f862c1c916ff,03~mes,oc
+ANO,0.0,c807c97b-a022-4a57-95be-49d42bf7ac36,09~mes,kt
+ANO,0.0,c807c97b-a022-4a57-95be-49d42bf7ac36,09~mes,oc
